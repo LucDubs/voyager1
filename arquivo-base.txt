@@ -1,2 +1,2 @@
-Arquivo base para fazer um commit de leves e oficializar a master.
+Arquivo base para fazer um commit de leves e oficializar a master para o Git.
 
